@@ -261,7 +261,7 @@ w_Q = solver(
     u_n_0=u_n_0,
     v_n_0=v_n_0,
     obj='Q',
-    optim_tol=1e-5
+    optim_tol=1e-7
 )
 
 
